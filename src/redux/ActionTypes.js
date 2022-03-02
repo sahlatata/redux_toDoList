@@ -1,0 +1,6 @@
+export const AFFICHE ='AFFICHE'
+export const ADDTASK ='ADDTASK'
+export const ADDTEXT ='ADDTEXT'
+export const DELETETASK= 'DELETETASK'
+export const EDITTASK ='EDITTASK'
+export const REVERSEDONE ='REVERSEDONE'
